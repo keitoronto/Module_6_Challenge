@@ -17,9 +17,15 @@ For this homework assignment, you’ll use real estate data from San Francisco.
 * Third, you will extend the line chart you previously created to make it more interactive. You will show the gross rent and the sale price per square foot from 2010 to 2016 with the neighbourhood. You will create a dropdown menu with the neighbourhood. The chart will show based on your neighbourhood choice.
 * Lastly, you will combine geomap data with real estate sale data and show a map with gross rent and the sale price per square foot. 
 
+### NOTE!
+
+Due to a plot rendring issue on GitHub, Please put the link: https://github.com/keitoronto/Module_6_Challenge/blob/main/san_francisco_housing.ipynb into [nbviewer](https://nbviewer.org/), which will show all plots 
 
 
 ---
 
 ### Resources
 * [Visualization Part 1 - Interactive Geoplot Using One Line of Code](https://towardsdatascience.com/the-battle-of-interactive-geographic-visualization-part-1-interactive-geoplot-using-one-line-of-8214e9ed1bb4)
+
+* [Plot rendering issue on GitHub](https://nbviewer.org/)
+
